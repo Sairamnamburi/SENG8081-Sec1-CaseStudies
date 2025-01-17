@@ -10,7 +10,8 @@
 8. Dona Mariya Jose
 9. Ukwuani Obiora Felix
 10. Jeremiah Falope
-11. Gurjot Singh
+11. Ann Elza Jose
 12. Sagar Siddhpura
-13. Andre Rodriguez
-
+13. Gurjot Singh
+14. Sagar Siddhpura
+15. Andre Rodriguez
