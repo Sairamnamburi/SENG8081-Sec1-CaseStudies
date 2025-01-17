@@ -5,7 +5,7 @@
 3. Sairam Namburi
 4. SHEJIN THOMAS
 5. Srimathi Dhayalan
-6. Dominic Thomas
+6. dominic thomas
 7. Reshma jayakumar
 8. Dona mariya jose
 9. Jeremiah Falope
