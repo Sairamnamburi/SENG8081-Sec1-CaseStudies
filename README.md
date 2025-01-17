@@ -8,14 +8,13 @@
 6. Dominic Thomas
 7. Reshma Jayakumar
 8. Dona Mariya Jose
-9. Ukwuani Obiora Felix
-10. Jeremiah Falope
-11. Ann Elza Jose
-12. Sagar Siddhpura
-13. Gurjot Singh
-14. Sagar Siddhpura
-15. Andre Rodriguez
-16. Pranit Arora
-
-17. 
-
+9. Jeremiah Falope
+10. Ahmed Shitta
+11. Ukwuani Obiora Felix
+12. Ann Elza Jose
+13. Sagar Siddhpura
+14. Gurjot Singh
+15. Sagar Siddhpura
+16. Andre Rodriguez
+17. Pranit Arora
+18. Gopichand Bollipalli
