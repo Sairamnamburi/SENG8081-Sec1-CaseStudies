@@ -3,4 +3,6 @@
 1. VatsSanghvi
 2. Yashvi Shukla
 3. Sairam Namburi
-4. Dominic Thomas
+4. Shejin Thomas
+5. Srimathi Dhayalan
+6. Dominic Thomas
