@@ -1,5 +1,5 @@
 # SENG8081-Sec1-CaseStudies
 
-VatsSanghvi
-Yashvi Shukla
-Sairam Namburi
+1. VatsSanghvi
+2. Yashvi Shukla
+3. Sairam Namburi
