@@ -1,10 +1,11 @@
 # SENG8081-Sec1-CaseStudies
 
-1. VatsSanghvi
+1. Vats Sanghvi
 2. Yashvi Shukla
 3. Sairam Namburi
 18. Amal Babu
 4. Shejin Thomas
+4. SHEJIN THOMAS
 5. Srimathi Dhayalan
 6. Dominic Thomas
 7. Reshma Jayakumar
@@ -19,4 +20,7 @@
 16. Andre Rodriguez
 17. Pranit Arora
 18. Gopichand Bollipalli
+19. Akshay chauhan
+20. Payal Solanki
+21. Jyothsna Remanan
 
