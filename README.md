@@ -8,5 +8,9 @@
 6. Dominic Thomas
 7. Reshma Jayakumar
 8. Dona Mariya Jose
-9. Jeremiah Falope
-10. Andre Rodriguez
+9. Ukwuani Obiora Felix
+10. Jeremiah Falope
+11. Gurjot Singh
+12. Sagar Siddhpura
+13. Andre Rodriguez
+
