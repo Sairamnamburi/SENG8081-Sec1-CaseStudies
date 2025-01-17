@@ -1,6 +1,6 @@
 # SENG8081-Sec1-CaseStudies
 
-1. VatsSanghvi
+1. Vats Sanghvi
 2. Yashvi Shukla
 3. Sairam Namburi
 4. Shejin Thomas
