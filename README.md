@@ -6,7 +6,7 @@
 4. SHEJIN THOMAS
 5. Srimathi Dhayalan
 6. Dominic Thomas
-7. Reshma Jayakumar
+7. Reshma jayakumar
 8. Dona mariya jose
 9. Jeremiah Falope
 10. Ahmed Shitta
